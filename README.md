@@ -9,8 +9,10 @@ The source code of the Perdition community website.
 
 # How to write posts?
 
-The posts on the site are written in pure markdown, so it's very easy to jump in. You can download and edit [the post template](https://github.com/Perdition-Japanese/Perdition-Japanese.github.io/blob/main/_posts/YYYY-MM-DD-post-template.md) as well.
+The posts on the site are written in pure markdown, so it's very easy to jump in. Have a look at [the post template](https://github.com/Perdition-Japanese/Perdition-Japanese.github.io/blob/main/_posts/YYYY-MM-DD-post-template.md) to see what the setup is like.
+
+---
 
 ## Credits
 
-The website was made with the Jekyll theme [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) by cotes2020, published under the [MIT]([jekyll-theme-chirpy/LICENSE at master · cotes2020/jekyll-theme-chirpy · GitHub](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE)) license.
+The website was made with the Jekyll theme [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) by cotes2020, published under the [MIT](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE) license.
