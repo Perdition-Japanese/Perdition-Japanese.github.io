@@ -11,7 +11,7 @@ categories: [Languages, Japanese]
 tags: [languages, japanese, educational, guide]
 ---
 
-# About This Guide
+## About This Guide
 
 There are plenty of Japanese guides on the internet, and following pretty much any of them can get you to fluency as long as you put in enough hours. With that being said, most guides lack depth and detail. Here, we're going to get a bit more granular.
 
@@ -21,13 +21,13 @@ The point of this guide is to provide that structure, so you can follow simple s
 
 If you have any questions or things that are unclear, don't hesitate to ask in the Discord server! Alternatively, [UsagiSpoon's day-by-day guide](https://learnjapanese.moe/routine/ "https://learnjapanese.moe/routine/") for your first 30 days of learning Japanese is a good resource as well.
 
-# How Perdition Measures Progress
+## How Perdition Measures Progress
 
 Before talking about the specifics, I want to give a brief overview of how this server helps people to measure their Japanese progress. We believe that your Japanese ability has a linear relationship with the number of characters you consume. In other words, the more Japanese characters you immerse in, the better you will be. It's as simple as that, more > less.
 
 Because characters are easily measurable, Eminent created a bot that will let you track how much you've read/watched. As you log more characters with the bot, you'll get new roles to show your progress. Think of these as "checkpoints" in your journey.
 
-## Our role system looks like this:
+### Our role system looks like this:
 
 - 平民 - 100,000 characters
 
@@ -63,7 +63,7 @@ Because characters are easily measurable, Eminent created a bot that will let yo
 
 We've created and collected several tools to make tracking characters nearly 0 effort, so you don't have to waste any time trying to figure out how many characters you've consumed. In short, you drag your sub file into [Eminent's Subtitle Character Counter](https://cademcniven.com/subtitleCharacterCounter.html) , and log it with the bot. For more information, check out the [#immersion-tracking](https://discord.com/channels/730440689099210786/986000654621368390/986002348323250186 "https://discord.com/channels/730440689099210786/986000654621368390/986002348323250186") channel in the Discord server.
 
-# How This Guide Is Structured
+## How This Guide Is Structured
 
 The curriculum we've prepared can take you from knowing absolutely nothing to being able to read/watch (almost) anything you want in just a *few* steps. Depending on how much of the curriculum you choose to complete, you should finish with somewhere between 1-3 million characters consumed.
 
@@ -77,13 +77,13 @@ The curriculum we've prepared can take you from knowing absolutely nothing to be
 
 We understand that not everyone is going to be interested in all kinds of media. Therefore, if you have no interest in novels / VNs[^VNs], feel free to stop after [step 2]({{ref}}#step-2--anime-deep-dive). If you have no interest in anime, feel free to skip to [step 3]({{ref}}#step-3--novels).
 
-# Step 1 | Fundamentals
+## Step 1 | Fundamentals
 
-## Step 1-A | Introduction To Immersion
+### Step 1-A | Introduction To Immersion
 
 To start off, you'll need to get on board with what immersion learning is, and why it's important. Otherwise, everything else past this might not make a lot of sense. As a primer, we recommend watching [this](https://www.youtube.com/watch?v=J_EQDtpYSNM "https://www.youtube.com/watch?v=J_EQDtpYSNM") video. Alternatively, if you don't want to spend 14 minutes on a YouTube video, you can just believe us that it's super important to surround yourself with language even during your learning process, despite a relatively low comprehension rate.
 
-## Step 1-B | Kana
+### Step 1-B | Kana
 
 14 minutes later and you've already finished a step! If you keep up this pace you'll finish everything by the end of the day! [^joke] 
 
@@ -106,7 +106,7 @@ Ultimately, how you learn kana is up to you. If needed, feel free to reference s
 
 <img src="../assets/img/2023-07-05-how-to-study-japanese/ea3f643d1ab93422a6f664de1a17b8897fcf7437.jpg" title="" alt="" width="315">_Kana chart_
 
-## Step 1-C | Anki
+### Step 1-C | Anki
 
 For this step, all you'll need to do is download (and optionally, set up) Anki. You'll want to download the latest version [here](https://apps.Ankiweb.net/ "https://apps.Ankiweb.net/").
 
@@ -130,7 +130,7 @@ I'd recommend sticking with 20 new cards per day for your first 2 weeks at least
 
 For more info on how many cards to do, see [this article](https://cademcniven.com/posts/20211119/ "https://cademcniven.com/posts/20211119/") by Eminent.
 
-## *Step 1-D | Kanji Lego (Optional)*
+### *Step 1-D | Kanji Lego (Optional)*
 
 This step is optional, but the majority of people need it.
 
@@ -148,7 +148,7 @@ You most likely skipped the number altogether, or just read "1.4 billion" and mo
 
 It is entirely possible to learn Japanese without the this step. Some people will tell you it's a waste of time; and they aren't necessarily wrong, depending on how well you can differentiate between kanji. Ultimately, it is up to you. Completing the deck doesn't take too long, so at worst, you waste a bit of time;  at best, you save yourself a lot of headache.
 
-## Step 1-E | Basic Vocab
+### Step 1-E | Basic Vocab
 
 This is the last part of step 1 and also the longest part (and for many people, the hardest part of learning the entire language). During this step you'll be going through the [Tango N5 omega deck](https://mega.nz/file/uHxWjTaC#X2hBAYg_cLttQmUvJQWmlk8QbnQtIIoXH7xU5DuDFeU) to learn ~1000 words and familiarise yourself with basic sentence structure. This step builds the foundation of your vocab, which will let you get into mining (making flashcards from immersion) much easier.
 
@@ -162,7 +162,7 @@ The good news is, vocab gets exponentially easier as you learn more new words, s
 
 When you complete this step you'll receive the **@初心者** role.
 
-## Step 1-F | Grammar
+### Step 1-F | Grammar
 
 Doing Anki won't take up 100% of your day, so there's a couple things you'll want to do during the couple of months you spend getting through the tango deck.
 
@@ -185,7 +185,7 @@ You should also gain a basic familiarity with how sentences are generally built 
 
 **You should finish reading most of the grammar guide of your choice by the time you finish the Tango N5 deck.**
 
-## *Step 1-G | Pitch (Optional)*
+### *Step 1-G | Pitch (Optional)*
 
 Another thing to do while working through tango is to train your ear to be able to hear pitch.
 
@@ -201,7 +201,7 @@ If you can't perceive pitch accent, you'll make mistakes like that when you try 
 
 That, of course, is a bit of an oversimplification of a fairly complex subject, but just know that spending a few minutes per day doing this in the beginning will pay dividends.
 
-## Step 1-H | Immersion *(Optional)*
+### Step 1-H | Immersion *(Optional)*
 
 One last thing you might want to do while working through Tango is immerse.
 
@@ -223,9 +223,9 @@ For the immersion you do during this phase, here are some ideas to get started:
 - [Learn Japanese with Noriko](https://www.youtube.com/c/LearnJapanesewithNoriko "https://www.youtube.com/c/LearnJapanesewithNoriko") is a really great podcast for beginners
 - [Learn Japanese Through Story](https://www.youtube.com/playlist?list=PLJov1NnDE_N_92MtmRyQknjavXa1oLSuM "https://www.youtube.com/playlist?list=PLJov1NnDE_N_92MtmRyQknjavXa1oLSuM") might be more engaging than the other options
 
-# Step 2 | Anime Deep Dive
+## Step 2 | Anime Deep Dive
 
-## How Step 2 Works
+### How Step 2 Works
 
 For step 2 you'll be performing a deep dive on several anime series. We've chosen these series based on a number of factors, such as:
 
@@ -253,7 +253,7 @@ I would recommend watching at least 1 of those anime before watching Non Non Biy
 
 I would recommend watching at least 2 of those anime before watching Hajime no Ippo.
 
-## How To Deep Dive
+### How To Deep Dive
 
 For step 2, you'll be performing a "deep dive" on a couple of anime series. A deep dive refers to watching a show while making flashcards for every single word you don't know.
 
@@ -273,9 +273,9 @@ If you're following [Eminent's Guide](https://cademcniven.com/posts/20210703/ "h
 
 > You can find additional frequency lists [here](https://drive.google.com/drive/folders/1g1drkFzokc8KNpsPHoRmDJ4OtMTWFuXi "https://drive.google.com/drive/folders/1g1drkFzokc8KNpsPHoRmDJ4OtMTWFuXi")
 
-## Recommended shows
+### Recommended shows
 
-### Clannad
+#### Clannad
 
 <img title="" src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-12-02-14-bx2167-ubU2875AFRTH.jpg" alt="" data-align="inline" width="200">{: .left}
 
@@ -289,7 +289,7 @@ If you're following [Eminent's Guide](https://cademcniven.com/posts/20210703/ "h
 
 <br clear="all"/>
 
-### Love Live!
+#### Love Live!
 
 <img title="" src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-12-07-39-nx15051-NKzcHHzZbzxR.jpg" alt="" width="200">{: .left}
 
@@ -301,7 +301,7 @@ If you're following [Eminent's Guide](https://cademcniven.com/posts/20210703/ "h
 
 <br clear="all" />
 
-### Polar Bear's Cafe
+#### Polar Bear's Cafe
 
 <img src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-13-11-33-12815.jpg" title="" alt="" width="200">{: .left}
 
@@ -311,7 +311,7 @@ If you're following [Eminent's Guide](https://cademcniven.com/posts/20210703/ "h
 
 <br clear="all" />
 
-### Non Non Biyori
+#### Non Non Biyori
 
 <img title="" src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-13-15-50-bx17549-n5m9PEt8SKIW.png" alt="" width="200">{: .left}
 
@@ -325,7 +325,7 @@ If you're following [Eminent's Guide](https://cademcniven.com/posts/20210703/ "h
 
 <br clear="all" />
 
-### Hajime no Ippo
+#### Hajime no Ippo
 
 <img src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-13-16-33-bx263-G7RlubsM73YY.png" title="" alt="" width="200">{: .left}
 
@@ -335,7 +335,7 @@ If you're following [Eminent's Guide](https://cademcniven.com/posts/20210703/ "h
 
 <br clear="all" />
 
-## Where To Go From Here
+### Where To Go From Here
 
 After completing this step, you should be well prepared to move on to [step 3]({{ref}}#step-3--novels) and begin reading novels or VNs.
 
@@ -370,9 +370,9 @@ However, you may be interested in continuing to watch more anime. At this point 
 
 We also host an [#anime-club](https://discord.com/channels/730440689099210786/1019656462487797860 "https://discord.com/channels/730440689099210786/1019656462487797860") in the Discord server where we pick a show to watch together every month. Feel free to join us there, and / or work through the old anime club shows we've already watched. I'd recommend [Mairimashita! Iruma-kun](https://discord.com/channels/730440689099210786/1021080375478472724/1021080375478472724 "https://discord.com/channels/730440689099210786/1021080375478472724/1021080375478472724") as a starting point, as it was our most popular anime club show, and it's a lot of fun all around!
 
-# Step 3 | Novels
+## Step 3 | Novels
 
-## How Step 3 Works
+### How Step 3 Works
 
 For [step 3]({{ref}}#step-3--novels) you'll be doing basically the same thing as [step 2]({{ref}}#step-2--anime-deep-dive), but this time you'll be immersing in novels and / or visual novels. Your choices for this are:
 
@@ -392,13 +392,13 @@ For [step 3]({{ref}}#step-3--novels) you'll be doing basically the same thing as
    If you read 3 of these, you'll receive the **@中級者-中辺** role.  
    If you read all of these, you'll receive the **@中級者-上辺** role.
 
-## Mining From VNs
+### Mining From VNs
 
 For novels you can pretty much use the same Yomichan mining setup as you used for mining anime, but mining from VNs requires a bit more work. On top of Yomichan, you'll also need to use a [clipboard inserter](https://rentry.co/lazyXel#clipboard-inserter "https://rentry.co/lazyXel#clipboard-inserter") with [Textractor](https://github.com/Artikash/Textractor "https://github.com/Artikash/Textractor") to get the game text onto a [texthooker](https://anacreondjt.gitlab.io/docs/texthooker/ "https://anacreondjt.gitlab.io/docs/texthooker/") page. You can also get pictures and audio on your cards by using [ShareX](https://rentry.co/lazyXel#sharex "https://rentry.co/lazyXel#sharex") if you want.
 
 For further information on how to setup VN mining, check out [this guide](https://learnjapanese.moe/vn-setup/ "https://learnjapanese.moe/vn-setup/").
 
-# Where To Go From Here
+## Where To Go From Here
 
 If you've made it this far, congratulations! Buy fireworks, grab some snacks and throw a party! At this point you're primed to watch or read pretty much anything you're interested in, so there's not many recommendations this time around (just immerse in what you enjoy).
 
