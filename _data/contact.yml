@@ -7,5 +7,6 @@
   icon: "rss_logo.png"
   noblank: true
   
-- type: github
+- type: github_link
   icon: "github_logo.png"
+  url: 'https://github.com/Perdition-Japanese/Perdition-Japanese.github.io'
