@@ -116,7 +116,7 @@ SRS works by showing you a flashcard just before your brain forgets it, which tr
 
 To illustrate this point, have a look at the following graph:
 
-![](../assets/img/2023-07-05-how-to-study-japanese/fec91310d65bcba59bbd4c4b23c396f0b4a132f5.jpg)_Ebbinghaus' forgetting curve and review cycle [^forgetting-curve]_
+![image](../assets/img/2023-07-05-how-to-study-japanese/fec91310d65bcba59bbd4c4b23c396f0b4a132f5.jpg)_Ebbinghaus' forgetting curve and review cycle [^forgetting-curve]_
 
 As illustrated, in an optimal model, with every repetition, your brain will retain the new information longer than the previous time.
 
