@@ -104,7 +104,7 @@ Alternatively, you can download [this Anki deck](https://cdn.discordapp.com/atta
 
 Ultimately, how you learn kana is up to you. If needed, feel free to reference some kana charts, such as this:
 
-<img src="../assets/img/2023-07-05-how-to-study-japanese/ea3f643d1ab93422a6f664de1a17b8897fcf7437.jpg" title="" alt="" width="315">_Kana chart_
+<img src="../assets/img/2023-07-05-how-to-study-japanese/ea3f643d1ab93422a6f664de1a17b8897fcf7437.jpg" title="" alt="image" width="315">_Kana chart_
 
 ### Step 1-C | Anki
 
@@ -277,7 +277,7 @@ If you're following [Eminent's Guide](https://cademcniven.com/posts/20210703/ "h
 
 #### Clannad
 
-<img title="" src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-12-02-14-bx2167-ubU2875AFRTH.jpg" alt="" data-align="inline" width="200">{: .left}
+<img title="" src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-12-02-14-bx2167-ubU2875AFRTH.jpg" alt="image" data-align="inline" width="200">{: .left}
 
 [MAL](https://myanimelist.net/anime/2167/Clannad "https://myanimelist.net/anime/2167/Clannad"), [AniList](https://anilist.co/anime/2167/Clannad/ "https://anilist.co/anime/2167/Clannad/")
 
@@ -291,7 +291,7 @@ If you're following [Eminent's Guide](https://cademcniven.com/posts/20210703/ "h
 
 #### Love Live!
 
-<img title="" src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-12-07-39-nx15051-NKzcHHzZbzxR.jpg" alt="" width="200">{: .left}
+<img title="" src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-12-07-39-nx15051-NKzcHHzZbzxR.jpg" alt="image" width="200">{: .left}
 
 [MAL](https://myanimelist.net/anime/15051/Love_Live_School_Idol_Project "https://myanimelist.net/anime/15051/Love_Live_School_Idol_Project"), [AniList](https://anilist.co/anime/15051/Love-Live-School-Idol-Project/ "https://anilist.co/anime/15051/Love-Live-School-Idol-Project/")
 
@@ -303,7 +303,7 @@ If you're following [Eminent's Guide](https://cademcniven.com/posts/20210703/ "h
 
 #### Polar Bear's Cafe
 
-<img src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-13-11-33-12815.jpg" title="" alt="" width="200">{: .left}
+<img src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-13-11-33-12815.jpg" title="" alt="image" width="200">{: .left}
 
 [MAL](https://myanimelist.net/anime/12815/Shirokuma_Cafe?q=polar%20bear "https://myanimelist.net/anime/12815/Shirokuma_Cafe?q=polar%20bear"), [AniList](https://anilist.co/anime/12815/Polar-Bears-Caf/ "https://anilist.co/anime/12815/Polar-Bears-Caf/")
 
@@ -313,7 +313,7 @@ If you're following [Eminent's Guide](https://cademcniven.com/posts/20210703/ "h
 
 #### Non Non Biyori
 
-<img title="" src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-13-15-50-bx17549-n5m9PEt8SKIW.png" alt="" width="200">{: .left}
+<img title="" src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-13-15-50-bx17549-n5m9PEt8SKIW.png" alt="image" width="200">{: .left}
 
 [MAL](https://myanimelist.net/anime/17549/Non_Non_Biyori "https://myanimelist.net/anime/17549/Non_Non_Biyori"), [AniList](https://anilist.co/anime/17549/Non-Non-Biyori/ "https://anilist.co/anime/17549/Non-Non-Biyori/")
 
@@ -327,7 +327,7 @@ If you're following [Eminent's Guide](https://cademcniven.com/posts/20210703/ "h
 
 #### Hajime no Ippo
 
-<img src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-13-16-33-bx263-G7RlubsM73YY.png" title="" alt="" width="200">{: .left}
+<img src="../assets/img/2023-07-05-how-to-study-japanese/2023-07-06-13-16-33-bx263-G7RlubsM73YY.png" title="" alt="image" width="200">{: .left}
 
 [MAL](https://myanimelist.net/anime/263/Hajime_no_Ippo "https://myanimelist.net/anime/263/Hajime_no_Ippo"), [AniList](https://anilist.co/anime/263/Fighting-Spirit/ "https://anilist.co/anime/263/Fighting-Spirit/")
 
