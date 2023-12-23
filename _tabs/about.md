@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![](../assets/img/about/d4b5deb024564c8a410783925c8398f5c13b3182.png)
+![image](../assets/img/about/d4b5deb024564c8a410783925c8398f5c13b3182.png)
 
 # Welcome To Perdition!
 
