@@ -100,7 +100,7 @@ We recommend learning kana as a 4 step process:
 
 If you don't like freerice, feel free to use something like [kana.pro](https://kana.pro/), or really any site that lets you quiz kana. However, the freerice.com quizzes will donate 10 grains of rice to those in need for every kana you review -- so you may as well do a good deed while you learn. 🙂
 
-Alternatively, you can download [this Anki deck](https://cdn.discordapp.com/attachments/381586349993623553/1076832446047326289/Kana.apkg "https://cdn.discordapp.com/attachments/381586349993623553/1076832446047326289/Kana.apkg") and learn kana that way. If you're not familiar with Anki, don't panic, just have a look at [Step 1-C]({{ref}}#step-1-c--anki).
+Alternatively, you can download [this Anki deck](https://github.com/Perdition-Japanese/Perdition-Japanese.github.io/raw/main/assets/Kana.apkg "https://github.com/Perdition-Japanese/Perdition-Japanese.github.io/raw/main/assets/Kana.apkg") and learn kana that way. If you're not familiar with Anki, don't panic, just have a look at [Step 1-C]({{ref}}#step-1-c--anki).
 
 Ultimately, how you learn kana is up to you. If needed, feel free to reference some kana charts, such as this:
 
