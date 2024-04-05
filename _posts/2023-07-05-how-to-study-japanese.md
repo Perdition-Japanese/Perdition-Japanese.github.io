@@ -150,7 +150,7 @@ It is entirely possible to learn Japanese without the this step. Some people wil
 
 ### Step 1-E | Basic Vocab
 
-This is the last part of step 1 and also the longest part (and for many people, the hardest part of learning the entire language). During this step you'll be going through the [Tango N5 omega deck](https://mega.nz/file/uHxWjTaC#X2hBAYg_cLttQmUvJQWmlk8QbnQtIIoXH7xU5DuDFeU) to learn ~1000 words and familiarise yourself with basic sentence structure. This step builds the foundation of your vocab, which will let you get into mining (making flashcards from immersion) much easier.
+This is the last part of step 1 and also the longest part (and for many people, the hardest part of learning the entire language). During this step you'll be going through the [Kaishi 1.5k](https://github.com/donkuri/Kaishi/releases/download/v1.3.4/Kaishi.1.5k.apkg) deck to learn ~1500 words and familiarise yourself with the basics of the language. This step builds the foundation of your vocabulary, which will let you get into mining (making flashcards from immersion) much easier.
 
 If you do 20 new cards per day, it should take you ~50 days to finish this deck. Feel free to do more cards than that if you want, the faster you can get past this stage, the better, but doing less is going to be seriously slow progress.
 
